@@ -219,7 +219,7 @@ export default function App() {
             <div className="flex items-center">
               <img src="logo.webp" alt="" width={35} />
               <h2 className="text-lg">
-                BuildShip - Website Scraping Playground
+                dExIT's Website Scraping
               </h2>
             </div>
           </a>
